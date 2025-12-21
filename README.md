@@ -1,0 +1,1 @@
+# 8bit-Hashing-Algorithm
